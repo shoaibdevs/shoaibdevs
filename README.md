@@ -1,6 +1,6 @@
 # Hi, I'm Shoaib 👋
 
-Full-Stack Developer with 6+ years of experience designing, building, and deploying web and mobile applications across Laravel, Django, Angular, React, and React Native. Started coding in secondary school and turned that early interest into a career spanning 10+ end-to-end projects — ERPs, marketplaces, and service platforms — owning backend architecture, API design, and frontend integration from initial scope through production deployment.
+Full-Stack Developer with 6+ years of experience designing, building, and deploying web and mobile applications across Laravel, Django, Angular, React, and React Native. Started coding in secondary school and turned that early interest into a career spanning 20+ end-to-end projects — ERPs, marketplaces, and service platforms — owning backend architecture, API design, and frontend integration from initial scope through production deployment.
 
 🔭 Open to remote (WFH), full-time or part-time roles with flexible hours.
 
