@@ -1,6 +1,6 @@
 # Hi, I'm Shoaib 👋
 
-Full-Stack Developer with 4+ years of experience designing, building, and deploying web and mobile applications across Laravel, Django, Angular, React, and React Native. Delivered 10+ end-to-end projects spanning ERPs, marketplaces, and service platforms — owning backend architecture, API design, and frontend integration from initial scope through production deployment.
+Full-Stack Developer with 6+ years of experience designing, building, and deploying web and mobile applications across Laravel, Django, Angular, React, and React Native. Started coding in secondary school and turned that early interest into a career spanning 10+ end-to-end projects — ERPs, marketplaces, and service platforms — owning backend architecture, API design, and frontend integration from initial scope through production deployment.
 
 🔭 Open to remote (WFH), full-time or part-time roles with flexible hours.
 
@@ -35,6 +35,13 @@ Full-Stack Developer with 4+ years of experience designing, building, and deploy
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 💼 Highlighted Work
+
+- 🏪 **Income Shala** — Designed the database and built the full REST API for a multi-level marketing ERP (agent onboarding, downline management, referrals, finance)
+- 🛠️ **TeamOnTask** — Delivered a home services marketplace as both a web app and a React Native mobile app on Google Play
+- 🐔 **Poultry India TV** — Built a real-time pricing API platform for the poultry industry
+- 🎓 Shipped ERP, directory, and marketplace platforms across education, automotive, and grocery delivery
+
 ## 🎯 Career Focus
 
 - 🌍 Open to **remote (WFH)** roles, full-time or part-time, with flexible hours
@@ -43,4 +50,5 @@ Full-Stack Developer with 4+ years of experience designing, building, and deploy
 
 ## 📫 Let's Connect
 
+📧 shoaibdevs@gmail.com
 Feel free to reach out about remote opportunities or collaboration.
